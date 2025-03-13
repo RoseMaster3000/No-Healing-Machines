@@ -1,0 +1,1 @@
+Datapack which removes all healing machines Cobblemon from world gen (village pokeon centers) This is best used along with Item Obliterator. I created this to ban healing centers on my minecraft server, as to make healing items/farming more importand. The hope is to nudge economics/trade on the server for a more interesting social environment.
